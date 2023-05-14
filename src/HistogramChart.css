@@ -1,0 +1,11 @@
+.histogram-chart-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .recharts-wrapper {
+    margin: 0 auto;
+  }
+  

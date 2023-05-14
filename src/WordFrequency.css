@@ -1,0 +1,24 @@
+.word-frequency {
+    font-family: Arial, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px;
+  }
+  
+  .word-frequency th {
+    background-color: #f2f2f2;
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .word-frequency td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .word-frequency tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+  }
+  
